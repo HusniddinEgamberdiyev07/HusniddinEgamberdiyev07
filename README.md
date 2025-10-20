@@ -1,15 +1,18 @@
-# Hi there, I'm Husniddin 👋
+# 👋 Hi there, I'm Husniddin
 
 I'm an aspiring developer currently learning:
 
-- JavaScript  
-- Python  
-- C#
+- 🟡 JavaScript  
+- 🐍 Python  
+- 💠 C#
 
-🌱 **Future plans:** Becoming a Fullstack Developer, focusing on:
+🎯 **Goal:** To become a Fullstack Developer.
 
-- ASP.NET  
-- PostgreSQL  
-- REST API  
-- HTML / CSS  
-- React
+📘 **Future learning plans:**
+- ⚙️ ASP.NET  
+- 🐘 PostgreSQL  
+- 🌐 REST API  
+- 🎨 HTML / CSS  
+- ⚛️ React
+
+💻 *I love web development and want to create complete end-to-end websites on my own.*
