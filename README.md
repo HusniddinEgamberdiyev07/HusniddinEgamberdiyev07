@@ -4,11 +4,12 @@ I'm an aspiring developer currently learning:
 
 - 🟡 JavaScript  
 - 🐍 Python  
-- 💠 C#
+
 
 🎯 **Goal:** To become a Fullstack Developer.
 
 📘 **Future learning plans:**
+- 💠 C#
 - ⚙️ ASP.NET  
 - 🐘 PostgreSQL  
 - 🌐 REST API  
