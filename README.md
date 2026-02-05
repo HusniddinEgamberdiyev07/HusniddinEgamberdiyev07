@@ -4,7 +4,8 @@ I'm an aspiring developer currently learning:
 
 - 🟡 JavaScript  
 - 🐍 Python
-- 🎨 HTML / CSS  
+- 🎨 HTML / CSS
+- ☕️ Java
 
 
 🎯 **Goal:** To become a Fullstack Developer.
