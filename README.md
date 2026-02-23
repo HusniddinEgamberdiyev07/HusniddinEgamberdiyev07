@@ -6,8 +6,7 @@ I'm an aspiring developer currently learning:
 - 🐍 Python
 - ☕️ Java
 - 🎨 HTML / CSS
-- 🌐 Django
-  
+
 🎯 **Goal:** To become a Fullstack Developer.
 
 📘 **Future learning plans:**
