@@ -7,6 +7,6 @@ I'm an aspiring developer currently learning:
 - ☕️ Java
 - 🎨 HTML / CSS
 
-🎯 **Goal:** To become a Fullstack Developer.
+💻 *I love web development and I want to create complete end-to-end websites on my own.*
 
-💻 *I love web development and want to create complete end-to-end websites on my own.*
+🎯 **Goal:** To become a Fullstack Developer.
