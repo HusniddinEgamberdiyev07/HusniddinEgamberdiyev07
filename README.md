@@ -6,5 +6,7 @@ Currently learning:
 - 🐍 Python
 - ☕️ Java
 - 🎨 HTML / CSS
+- 🌐 Express js
+- 🌱 Mongodb
 
 🎯 **Goal:** To become a Fullstack Developer.
